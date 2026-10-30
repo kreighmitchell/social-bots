@@ -1,0 +1,5 @@
+[project]
+name = "social-bots"
+version = "0.1.0"
+description = "Experiments in social robotics and interaction"
+requires-python = ">=3.10"
